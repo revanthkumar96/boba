@@ -1,0 +1,21 @@
+aiohttp
+beautifulsoup4
+fastapi
+lxml
+mammoth
+matplotlib
+networkx
+nltk
+numpy
+openpyxl
+pandas
+PyPDF2
+python-docx
+python-dotenv
+scikit-learn
+spacy
+transformers
+torch
+uvicorn
+groq
+#python -m spacy download en_core_web_sm
